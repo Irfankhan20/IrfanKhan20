@@ -25,6 +25,24 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
+<h2 align="left">🤷‍♂️ Latest Project :</h2>
+
+  <h3> 1 : Technology-And-Electronics</h3>
+  
+  <h4><a href="https://technology-and-electroni-de164.web.app">Live Link</h4>
+    
+  <h5>Features : </h5>
+  
+  -  User can login.
+  -  User can add product by logging in.
+  -  Users can delete those products if they want.
+  -  User can view and update the details of that product.
+
+ <h5>Technology:</h5>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,express,firebase,mongodb)](https://skillicons.dev)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

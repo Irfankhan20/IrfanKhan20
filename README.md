@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm MD.Irfan Khan Pathan</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+### Hi there 👋, my name is Irfan Khan Pathan
+#### I am MERN stack web developer
 ![I am MERN stack developer](https://i.ibb.co/Csfzhh5/Untitled-design-page-0001.jpg)
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">

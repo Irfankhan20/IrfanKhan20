@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is bashputi
 #### I am MERN stack developer
-![I am MERN stack developer](https://i.ibb.co/qYByCd1/Screenshot-2023-12-09-123414.png)
+![I am MERN stack developer](https://i.ibb.co/Csfzhh5/Untitled-design-page-0001.jpg)
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 

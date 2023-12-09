@@ -27,7 +27,7 @@
 
 <h2 align="left">🤷‍♂️ Latest Project :</h2>
 
-  <h3> 1 : Technology-And-Electronics</h3>
+  <h3> 1 : Rastaurant Food Management App</h3>
   
   <h4><a href="https://technology-and-electroni-de164.web.app">Live Link</h4>
     

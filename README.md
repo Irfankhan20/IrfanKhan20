@@ -29,18 +29,18 @@
 
   <h3> 1 : Rastaurant Food Management App</h3>
   
-  <h4><a href="https://technology-and-electroni-de164.web.app">Live Link</h4>
+  <h4><a href="https://assignment-eleven-website.web.app/">Live Link</h4>
     
   <h5>Features : </h5>
   
-  -  User can login.
-  -  User can add product by logging in.
-  -  Users can delete those products if they want.
+  -  User can login by Google.
+  -  User can add food from Add Food Item Page.
+  -  Users can delete those Food if they want.
   -  User can view and update the details of that product.
 
- <h5>Technology:</h5>
+ <h5>Technology used:</h5>
  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,express,firebase,mongodb)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb)](https://skillicons.dev)
 
 
 

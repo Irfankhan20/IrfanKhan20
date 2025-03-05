@@ -40,25 +40,22 @@
 
  <h5>Technology used:</h5>
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb,JWT,SSLCoomerz,npm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb,npm)](https://skillicons.dev)
 
 
-  <h3> 2 :Online Delivery Management App</h3>
+  <h3> 2 :Online Tution Management App</h3>
   
-  <h4><a href="https://fresh-glass.surge.sh">Live Link</h4>
+  <h4><a href="https://tutor-sheba-client.web.app/">Live Link</h4>
     
   <h5>Features : </h5>
   
-  -  User can booking parcel by parcel booking of User Dashboard.
-  -  User can see their all booking parcel from My Parcels Page of User Dashboard.
-  -  Admin can see and maintains their all users from All Users Page of Admin Dashboard.
-  -  Admin can select delivery-men for a specific Delivery.
-  -  user can review on delivery-men by apps.
-  -  Delivery-men can see their all delivery from Delivry List page of Delivery men Dashboard.
+  -  User can login as a tutor or student.There are different register pages for each ot them.
+  -  User can see awesome home page with animation.
+  -  user can see our services and all tutors with their information.
 
  <h5>Technology used:</h5>
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb,npm)](https://skillicons.dev)
 
 
 

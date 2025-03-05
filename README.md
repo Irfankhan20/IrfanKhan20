@@ -40,7 +40,7 @@
 
  <h5>Technology used:</h5>
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb,JWT,SSLCoomerz)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb,JWT,SSLCoomerz,npm)](https://skillicons.dev)
 
 
   <h3> 2 :Online Delivery Management App</h3>

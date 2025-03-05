@@ -43,15 +43,16 @@
  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb,npm)](https://skillicons.dev)
 
 
-  <h3> 2 :Online Tution Management App</h3>
+  <h3> 2 :Language Learning App</h3>
   
-  <h4><a href="https://tutor-sheba-client.web.app/">Live Link</h4>
+  <h4><a href="https://lingobingo-hindi-learn.surge.sh/">Live Link</h4>
     
   <h5>Features : </h5>
   
-  -  User can login as a tutor or student.There are different register pages for each ot them.
-  -  User can see awesome home page with animation.
-  -  user can see our services and all tutors with their information.
+  -  Responsive home page, firebase authentication, pagination, word games, tutorial section, profile section and user profile section.
+  -  User can learn hindi language by seeing tutorial, by lestening word spelling, by reading word spelling.
+  -  user can update his/her profile info, and can change his/her password by gmail.
+  -  When the user clicks on the lesson card, he can hear the punctuation of the word.
 
  <h5>Technology used:</h5>
  

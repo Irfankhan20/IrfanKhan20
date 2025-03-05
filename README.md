@@ -27,7 +27,7 @@
 
 <h2 align="left">🤷‍♂️ Latest Project :</h2>
 
-  <h3> 1 : Tourism Management App</h3>
+  <h3> 1 : Tourism Management App (Unique Travel) </h3>
   
   <h4><a href="https://unique-travel-c3fd8.web.app/">Live Link</h4>
     
@@ -43,7 +43,7 @@
  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb,npm)](https://skillicons.dev)
 
 
-  <h3> 2 :Language Learning App</h3>
+  <h3> 2 :Language Learning App (LingoBingo) </h3>
   
   <h4><a href="https://lingobingo-hindi-learn.surge.sh/">Live Link</h4>
     

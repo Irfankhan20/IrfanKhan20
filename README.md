@@ -27,20 +27,20 @@
 
 <h2 align="left">🤷‍♂️ Latest Project :</h2>
 
-  <h3> 1 : Rastaurant Food Management App</h3>
+  <h3> 1 : Tourism Management App</h3>
   
-  <h4><a href="https://assignment-eleven-website.web.app/">Live Link</h4>
+  <h4><a href="https://unique-travel-c3fd8.web.app/">Live Link</h4>
     
   <h5>Features : </h5>
   
-  -  User can login by Google.
-  -  User can add food from Add Food Item Page.
+  -  User can login by Google, Github or email & password.Modern User Interface.
+  -  Dynamic SSLCommerz payment, google map, email.js, forgot password etc. Profile route for all userType.
   -  Users can delete those Food if they want.
-  -  User can view and update the details of that product.
+  -  There are separate dashboards for admin, tourguide and tourist.
 
  <h5>Technology used:</h5>
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,firebase,mongodb,JWT,SSLCoomerz)](https://skillicons.dev)
 
 
   <h3> 2 :Online Delivery Management App</h3>
